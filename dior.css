@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(124, 154, 155);
+}
+h1{
+    color:darkblue;
+    text-align: center;
+    font-family:fantasy;
+}
+.video{
+    width:400px;
+    height:400px;
+}
+h2{
+    color:darkslateblue;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: rgb(255, 253, 253);
+    text-align: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    color:rgb(94, 117, 167);
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    width:60%;
+    height:100px;
+    color:white;
+    text-align: left;
+    background-color:rgb(151, 176, 245);
+    border: 4px;
+}

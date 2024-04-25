@@ -1,0 +1,28 @@
+body{
+    background-color:antiquewhite;
+}
+h1{
+    color: deeppink;
+    text-align: center;
+}
+img{
+    width: 20%;
+    height: 20%;
+}   
+h4{
+    color: fuchsia;
+    font-family: cursive;
+}
+h3{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h5{
+    color: blueviolet;
+    text-align: right;
+}
+h6{
+    color: rgb(236, 119, 221);
+    text-align: right;
+    font-family: sans-serif;
+}

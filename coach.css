@@ -1,0 +1,35 @@
+body{
+    background-color:bisque;
+}
+h1{
+    color:darksalmon;
+    text-align: center;
+    font-family:fantasy;
+}
+.video{
+    width:400px;
+    height:400px;
+}
+h2{
+    color: rgb(202, 172, 116);
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: black;
+    text-align: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    color:darkgoldenrod;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    width:60%;
+    height:100px;
+    color:white;
+    text-align: left;
+    background-color:rgb(253, 219, 168);
+    border: 4px;
+}
